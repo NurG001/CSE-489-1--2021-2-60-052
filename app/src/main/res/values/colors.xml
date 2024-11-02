@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primaryColor">#3F51B5</color>
+    <color name="primaryDarkColor">#303F9F</color>
+    <color name="primaryLightColor">#C5CAE9</color>
+
+    <!-- Secondary Colors -->
+    <color name="secondaryColor">#FF4081</color>
+    <color name="secondaryDarkColor">#F50057</color>
+    <color name="secondaryLightColor">#FF80AB</color>
+
+    <!-- Neutral Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="lightGray">#D3D3D3</color>
+    <color name="gray">#808080</color>
+    <color name="darkGray">#505050</color>
+
+    <!-- Required Colors -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+
+    <!-- Accent Colors -->
+    <color name="accentRed">#F44336</color>
+    <color name="accentPink">#E91E63</color>
+    <color name="accentPurple">#9C27B0</color>
+    <color name="accentDeepPurple">#673AB7</color>
+    <color name="accentIndigo">#3F51B5</color>
+    <color name="accentBlue">#2196F3</color>
+    <color name="accentLightBlue">#03A9F4</color>
+    <color name="accentCyan">#00BCD4</color>
+    <color name="accentTeal">#009688</color>
+    <color name="accentGreen">#4CAF50</color>
+    <color name="accentLightGreen">#8BC34A</color>
+    <color name="accentLime">#CDDC39</color>
+    <color name="accentYellow">#FFEB3B</color>
+    <color name="accentAmber">#FFC107</color>
+    <color name="accentOrange">#FF9800</color>
+    <color name="accentDeepOrange">#FF5722</color>
+    <color name="accentBrown">#795548</color>
+    <color name="accentBlueGray">#607D8B</color>
+
+    <!-- Pastel Colors -->
+    <color name="pastelRed">#FFCCCB</color>
+    <color name="pastelPink">#FFC0CB</color>
+    <color name="pastelPurple">#E6E6FA</color>
+    <color name="pastelBlue">#ADD8E6</color>
+    <color name="pastelGreen">#98FB98</color>
+    <color name="pastelYellow">#FFFFE0</color>
+    <color name="pastelOrange">#FFDAB9</color>
+
+    <!-- Vibrant Colors -->
+    <color name="vibrantRed">#FF0000</color>
+    <color name="vibrantOrange">#FFA500</color>
+    <color name="vibrantYellow">#FFFF00</color>
+    <color name="vibrantGreen">#00FF00</color>
+    <color name="vibrantBlue">#0000FF</color>
+    <color name="vibrantPurple">#800080</color>
+
+    <!-- Nature Colors -->
+    <color name="forestGreen">#228B22</color>
+    <color name="seaBlue">#4682B4</color>
+    <color name="sunYellow">#FFD700</color>
+    <color name="earthBrown">#8B4513</color>
+    <color name="skyBlue">#87CEEB</color>
+    <color name="sunsetOrange">#FF4500</color>
+
+    <!-- Grayscale Colors -->
+    <color name="gray50">#FAFAFA</color>
+    <color name="gray100">#F5F5F5</color>
+    <color name="gray200">#EEEEEE</color>
+    <color name="gray300">#E0E0E0</color>
+    <color name="gray400">#BDBDBD</color>
+    <color name="gray500">#9E9E9E</color>
+    <color name="gray600">#757575</color>
+    <color name="gray700">#616161</color>
+    <color name="gray800">#424242</color>
+    <color name="gray900">#212121</color>
+
+    <!-- Additional Colors -->
+    <color name="aqua">#00FFFF</color>
+    <color name="coral">#FF7F50</color>
+    <color name="khaki">#F0E68C</color>
+    <color name="plum">#DDA0DD</color>
+    <color name="salmon">#FA8072</color>
+    <color name="turquoise">#40E0D0</color>
+</resources>
